@@ -30,7 +30,8 @@
         "./node_modules/@scandipwa/scandipwa/src/**/*",
         "./src/**/*",
         "src/**/*",
-        "node_modules/@scandipwa/scandipwa/src/**/*"
+        "node_modules/@scandipwa/scandipwa/src/**/*",
+        "packages/scandi-dark-theme/src/**/*"
     ],
     "exclude": []
 }

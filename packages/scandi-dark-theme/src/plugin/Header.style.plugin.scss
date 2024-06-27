@@ -1,0 +1,10 @@
+.Header {
+  &-DarkModeToggle {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  &-TopMenu {
+    margin: 0;
+  }
+}
